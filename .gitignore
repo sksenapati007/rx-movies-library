@@ -7,7 +7,6 @@
 /.firebase
 # testing
 /coverage
-/build
 
 # production
 /build
