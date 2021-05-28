@@ -1,0 +1,131 @@
+.App {
+    height: 150vh;
+    background-color: #002A32 !important;
+}
+
+.navlist {
+    background-color: rgba(255, 255, 255, 0.103) !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    font-size: 1.5rem;
+}
+
+.notice {
+    background-color: rgba(255, 255, 255, 0.103) !important;
+}
+
+/* .tableList{
+     margin-top: 12%;
+} */
+
+.filter {
+    margin-top: 6%;
+}
+
+.listMovies {
+    font-weight: 600;
+    box-shadow: -3px 5px 25px rgba(255, 253, 187, 0.714);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-radius: 10px;
+}
+
+.listMovies>thead>tr>th {
+    border-top: none;
+}
+
+.listMovies>tbody>tr:hover {
+    background-color: white;
+    color: darkblue !important;
+    font-weight: bold;
+}
+
+.likeSymbol {
+    color: darkblue;
+}
+
+.live-theatre{
+    font-size: larger;
+}
+
+.logo {
+    height: 90%;
+    width: 55%;
+}
+
+.poster{
+    height: 200px;
+    width: 163px;
+}
+
+
+.notify {
+    width: 300px;
+    height: 190px;
+    /* margin-left: 4px; */
+    /* background: rgba(255, 174, 0, 0.4); */
+    border-radius: 5px;
+}
+
+
+#notifications{
+    margin: 0px;
+    height: 90px;
+    width: 300px;
+}
+
+#notifications a{
+    color: gold;
+    font-size: 1.2em;
+}
+
+#notifications a:hover{
+    color: orange;
+    font-size: 1.4em;
+}
+
+.listMovies>tbody>tr>td>a{
+    text-decoration: none !important;
+    color: navy !important;
+}
+
+
+
+/* NavLink
+.menu {
+    list-style: none;
+  }
+  
+  .menu .li {
+    width: 90px;
+    height: 50px;
+    -webkit-transition: background-position-x 0.9s linear;
+    transition: background-position-x 0.9s linear;
+    text-align: center;
+  }
+  
+  .menu .li:hover {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEi%0D%0AIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhs%0D%0AaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB3aWR0%0D%0AaD0iMzkwcHgiIGhlaWdodD0iNTBweCIgdmlld0JveD0iMCAwIDM5MCA1MCIgZW5hYmxlLWJhY2tn%0D%0Acm91bmQ9Im5ldyAwIDAgMzkwIDUwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZmlsbD0i%0D%0Abm9uZSIgc3Ryb2tlPSIjZDk0ZjVjIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLW1pdGVybGlt%0D%0AaXQ9IjEwIiBkPSJNMCw0Ny41ODVjMCwwLDk3LjUsMCwxMzAsMAoJYzEzLjc1LDAsMjguNzQtMzgu%0D%0ANzc4LDQ2LjE2OC0xOS40MTZDMTkyLjY2OSw0Ni41LDI0My42MDMsNDcuNTg1LDI2MCw0Ny41ODVj%0D%0AMzEuODIxLDAsMTMwLDAsMTMwLDAiLz4KPC9zdmc+Cg==);
+    -webkit-animation: line 1s;
+            animation: line 1s;
+  }
+  
+  .menu .li:hover .li {
+    color: #db6875 !important;
+  }
+  
+  .menu .li:not(:last-child) {
+    margin-right: 30px;
+  }
+  
+  @-webkit-keyframes line {
+    0% {
+      background-position-x: 290px;
+    }
+  }
+  
+  @keyframes line {
+    0% {
+      background-position-x: 290px;
+    }
+  } */
